@@ -4,7 +4,7 @@ Put the full Emoji fun in [Cisco Jabber] (http://www.cisco.com/c/en/us/products/
 
 ## Themes ##
 
-We currently support two themes [EmojiOne](https://github.com/avoest/CiscoJabber-CustomEmoticons/EmojiOne/) and [Twemoji](https://github.com/avoest/CiscoJabber-CustomEmoticons/Twemoji/).
+We currently support two themes [EmojiOne](/EmojiOne/) and [Twemoji](/Twemoji/).
 
 ![EmojiOne](/EmojiOne/preview.png?raw=true)
 
