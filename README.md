@@ -6,13 +6,12 @@ Put the full Emoji fun in [Cisco Jabber] (http://www.cisco.com/c/en/us/products/
 
 We currently support two themes [EmojiOne](/EmojiOne/) and [Twemoji](/Twemoji/).
 
-![EmojiOne](/EmojiOne/preview.png?raw=true)
-
-![Twemoji](/Twemoji/preview.png?raw=true)
+[![EmojiOne](/EmojiOne/preview.png?raw=true)](/EmojiOne/)
+[![Twemoji](/Twemoji/preview.png?raw=true)](/Twemoji/)
 
 ## Installation ##
 
-Simply put the CustomEmoticons folder in your Cisco Jabber installation directory.
+Simply put the CustomEmoticons folder into your Cisco Jabber installation directory.
 
 ```powershell
 cp -r CustomEmoticons "${Env:ProgramFiles(x86)}\Cisco Systems\Cisco Jabber\"
